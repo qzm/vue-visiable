@@ -1,0 +1,19 @@
+{
+  "name": "vue-visible",
+  "version": "1.0.0",
+  "description": "vue.js v-visible plugin",
+  "main": "vue-visible",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qzm/vue-visible.git"
+  },
+  "author": "qzm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qzm/vue-visible/issues"
+  },
+  "homepage": "https://github.com/qzm/vue-visible#readme"
+}
